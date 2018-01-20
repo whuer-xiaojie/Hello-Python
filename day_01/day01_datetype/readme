@@ -1,0 +1,9 @@
+python支持的基本数据类型学习
+
+int 整数的输出
+float 浮点数的输出
+char 字符型
+bool bool型
+list 链表
+tuple 元组
+以及 None空值
