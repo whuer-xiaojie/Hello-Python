@@ -21,4 +21,3 @@ print('you must really like \'%s\'p and you will grasp it '%name)
 number1=int(input('please input number1:'))
 number2=int(input('please input number2:'))
 print('you input number is %d and %d and %d+%d='%(number1,number2,number1,number2),number1+number2 )
-
