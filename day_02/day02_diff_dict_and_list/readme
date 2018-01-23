@@ -1,0 +1,20 @@
+2018-1-23
+复习list和tuple的使用，整理比较区别；
+ list.append(obj)//在list的末尾添加一个obj元素
+
+ list.inset(index,obj)//在list的index索引位置插入obj元素
+
+ list.pop(index)//删除list的index索引的元素，如果不指定索引，计算删除末尾的一个元素
+
+ list.count(obj)//统计obj元素在list中出现的次数
+
+ list.index(obj)//obj元素在list中第一次出现的索引位置
+
+ list.reverse()//对list中的元素进行反转
+
+ list.sort()//对list进行排序，默认为由大到下进行排序
+ 
+ tuple的格式为：
+
+ tuple1=("a","b",1)
+ 一旦被初始化就不能被修改，但是可以根据索引位置访问对应的元素，定义一个空的tuple和只有一个元素的tuple应该注意：
