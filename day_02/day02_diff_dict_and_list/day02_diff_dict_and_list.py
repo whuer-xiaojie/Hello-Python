@@ -28,3 +28,21 @@ tuple1=("a","b",1)
 print(tuple1)
 tuple0=()
 tuple2=(1,)
+
+tuple3=tuple1+tuple2
+print(tuple3)
+del tuple3
+#print("after delete tuple3 is:",tuple3)
+
+
+a="abc"
+b=['a','b','c']
+
+c=a.replace('a','A')
+d=b.append('d')
+print('a=',a)
+print('b=',b)
+
+print('c=',c)
+print('d=',d)
+
